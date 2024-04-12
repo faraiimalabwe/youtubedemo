@@ -1,0 +1,40 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px; /* Add padding for spacing */
+    background-color: #fff; /* Add background color */
+  }
+  
+  .header_logo {
+    height: 40px; /* Increase logo height */
+    width: auto;
+  }
+  
+  .search-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .search-container input {
+    margin-left: 5px;
+    border: 1px solid black;
+    padding: 8px;
+    border-radius: 4px;
+  }
+  
+  .menu-icons {
+    display: flex;
+    align-items: center;
+  }
+  
+  .menu-icons > * {
+    margin-right: 15px; 
+  }
+  
+  
+  
+  
+  
+  
+  
